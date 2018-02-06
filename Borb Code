@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Holiday card</title>
+    </head>
+   
+   <style>
+    
+    body { 
+        background-color: rgb(217, 126,     35);
+        }
+    
+    h1 {
+        color: rgb(26, 112, 37);
+    }   
+       
+   </style>
+   
+    <body>
+
+        <h1>Happy Borbday</h1>
+        
+       <img src="https://www.kasandbox.org/programming-images/creatures/Winston.png">
+        
+        <img src="https://www.kasandbox.org/programming-images/food/potatoes.png"width="250-">
+        
+        <img src="https://www.kasandbox.org/programming-images/creatures/OhNoes.png"width="400">
+    
+        
+        
+    </body>
+</html>
